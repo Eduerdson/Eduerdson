@@ -5,7 +5,7 @@
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
 ║        0x00  >  Hello, World.  <  0xFF               ║
-║        Engenheiro de software & entusiasta           ║
+║                                                      ║
 ║        de sistemas de baixo nível                    ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
@@ -22,22 +22,17 @@
 ```java
 public class Developer {
 
-    private final String nome       = "Seu Nome";
+    private final String nome       = "Eduardo";
     private final String foco       = "Java Backend + Integrações com Equipamentos";
     private final String[] paixoes  = { "Baixo Nível", "Sistemas Operacionais", "Hardware" };
     private final boolean openToWork = true;
-
-    public String toString() {
-        return "Junior dev com mentalidade de systems programmer.";
-    }
-}
 ```
 
 ---
 
 ## `$ ls ./tech-stack`
 
-### 💻 Linguagens
+###  Linguagens
 
 <div align="center">
 
@@ -50,12 +45,12 @@ public class Developer {
 
 </div>
 
-### 🗄️ Bancos de Dados
+###  Bancos de Dados
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Ferramentas
+###  Ferramentas
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -68,18 +63,14 @@ public class Developer {
 ```rust
 fn main() {
     let interesses = vec![
-        "🔩  Integração com equipamentos & hardware",
-        "⚙️  Sistemas Operacionais e como funcionam por dentro",
-        "📡  Protocolos de comunicação serial (RS-232, Modbus, CAN...)",
-        "🦀  Programação de sistemas com Rust",
-        "☕  Arquitetura backend robusta com Java",
-        "🧠  Entender o que acontece abaixo da abstração",
+        "  Integração com equipamentos & hardware",
+        "  Sistemas Operacionais e como funcionam por dentro",
+        "  Protocolos de comunicação serial (RS-232, Modbus, CAN...)",
+        "  Programação de sistemas com Rust",
+        "  Arquitetura backend robusta com Java",
+        "  Entender o que acontece abaixo da abstração",
     ];
 
-    for interesse in interesses {
-        println!("{}", interesse);
-    }
-}
 ```
 
 ---
@@ -88,26 +79,15 @@ fn main() {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduerdson&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduerdson&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SEU_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
-
-</div>
-
----
-
-## `$ ping ./contato`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eduerdson&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -119,6 +99,6 @@ fn main() {
                               — David J. Wheeler
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00ff88&style=flat-square&label=visitors)
+![Profile views](https://komarev.com/ghpvc/?username=Eduerdson&color=00ff88&style=flat-square&label=visitors)
 
 </div>
