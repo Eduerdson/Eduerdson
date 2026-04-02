@@ -1,16 +1,6 @@
 <!-- Header animado -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        0x00  >  Hello, World.  <  0xFF               ║
-║                                                      ║
-║        de sistemas de baixo nível                    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+Rust+Enthusiast;Low-Level+%26+OS+Explorer;Hardware+Integration+Specialist;C%2B%2B+%7C+Postgres+%7C+MySQL)](https://git.io/typing-svg)
 
 </div>
@@ -36,11 +26,11 @@ public class Developer {
 
 <div align="center">
 
-| Nível | Tecnologia |
+| Foco | Tecnologia |
 |---|---|
 | ⭐⭐⭐ Principal | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| ⭐⭐ Sólido | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) |
-| ⭐⭐ Sólido | ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ⭐⭐ Entusiasta | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) |
+| ⭐⭐ Entusiasta | ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ⭐ Básico | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 
 </div>
@@ -78,10 +68,6 @@ fn main() {
 ## `$ git log --oneline ./stats`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduerdson&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduerdson&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eduerdson&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
 
