@@ -1,7 +1,7 @@
 <!-- Header animado -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+Rust+Enthusiast;Low-Level+%26+OS+Explorer;Hardware+Integration+Specialist;C%2B%2B+%7C+Postgres+%7C+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DB814&center=true&vCenter=true&random=true&width=435&lines=Postgres+-+MySQL;C%2B%2B%2FRust+Enthusiast;Low+Level+Explorer;Java+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,6 +29,7 @@ public class Developer {
 | Foco | Tecnologia |
 |---|---|
 | ⭐⭐⭐ Principal | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| ⭐⭐⭐ Principal | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | ⭐⭐ Entusiasta | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) |
 | ⭐⭐ Entusiasta | ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ⭐ Básico | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
