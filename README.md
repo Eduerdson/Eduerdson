@@ -69,7 +69,7 @@ fn main() {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eduerdson&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eduerdson&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
 
