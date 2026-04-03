@@ -1,59 +1,47 @@
-<!-- Header animado -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DB814&center=true&vCenter=true&random=true&width=435&lines=Postgres+-+MySQL;C%2B%2B%2FRust+Enthusiast;Low+Level+Explorer;Java+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB814&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+Developer;Postgres+%7C+MySQL;C%2B%2B+%2F+Rust+%2F+C+Enthusiast;Low+Level+%26+Backend+Focused)](https://git.io/typing-svg)
+
+### Olá, sou o Eduerdson 👋
+
+Dev Jr. focado em **Java & Spring Boot** — apaixonado por sistemas de baixo nível e entusiasta de Rust, C e C++.
 
 </div>
 
 ---
-## `$ ls ./tech-stack`
+##  Tech Stack
 
-###  Linguagens
+**Back-end & Linguagens**
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-| Foco | Tecnologia |
-|---|---|
-| ⭐⭐⭐ Principal | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| ⭐⭐⭐ Principal | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ⭐⭐ Entusiasta | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) |
-| ⭐⭐ Entusiasta | ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| ⭐ Básico | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+**Banco de Dados**
 
-</div>
-
-###  Bancos de Dados
-
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-###  Ferramentas
+**Ferramentas**
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
-## `$ git log --oneline ./stats`
+
+##  Stats
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eduerdson&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-</div>
-
-
-
-<div align="center">
-
-```
-> "Qualquer problema de software pode ser resolvido com
-   mais um nível de indireção — exceto o problema de
-   muitos níveis de indireção."
-   
-                              — David J. Wheeler
-```
-
 ![Profile views](https://komarev.com/ghpvc/?username=Eduerdson&color=00ff88&style=flat-square&label=visitors)
 
 </div>
+
+> *"Qualquer problema de software pode ser resolvido com mais um nível de indireção — exceto o problema de muitos níveis de indireção."* — David J. Wheeler
