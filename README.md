@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB814&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+Developer;Postgres+%7C+MySQL;C%2B%2B+%2F+Rust+%2F+C+Enthusiast;Low+Level+%26+Backend+Focused)](https://git.io/typing-svg)
 
-### Olá, sou o Eduerdson 👋
+### Olá, sou o Eduardo!
 
 Dev Jr. focado em **Java & Spring Boot** — apaixonado por sistemas de baixo nível e entusiasta de Rust, C e C++.
 
