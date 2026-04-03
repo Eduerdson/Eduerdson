@@ -6,20 +6,6 @@
 </div>
 
 ---
-
-## `$ whoami`
-
-```java
-public class Developer {
-
-    private final String nome       = "Eduardo";
-    private final String foco       = "Java Backend + Integrações com Equipamentos";
-    private final String[] paixoes  = { "Baixo Nível", "Sistemas Operacionais", "Hardware" };
-    private final boolean openToWork = true;
-```
-
----
-
 ## `$ ls ./tech-stack`
 
 ###  Linguagens
@@ -48,24 +34,6 @@ public class Developer {
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## `$ cat ./interesses.txt`
-
-```rust
-fn main() {
-    let interesses = vec![
-        "  Integração com equipamentos & hardware",
-        "  Sistemas Operacionais e como funcionam por dentro",
-        "  Protocolos de comunicação serial (RS-232, Modbus, CAN...)",
-        "  Programação de sistemas com Rust",
-        "  Arquitetura backend robusta com Java",
-        "  Entender o que acontece abaixo da abstração",
-    ];
-
-```
-
----
-
 ## `$ git log --oneline ./stats`
 
 <div align="center">
