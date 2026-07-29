@@ -4,7 +4,7 @@
 
 ### Olá, sou o Eduardo!
 
-Dev Jr. focado em **Java & Spring Boot** — apaixonado por sistemas de baixo nível e entusiasta de Rust, C e C++.
+Dev Jr. focado em **Java & Spring Boot** porém entusiasta de Rust, C e C++.
 
 </div>
 
