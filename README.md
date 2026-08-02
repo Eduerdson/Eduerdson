@@ -1,12 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB814&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+Developer;Postgres+%7C+MySQL;C%2B%2B+%2F+Rust+%2F+C+Enthusiast;Low+Level+%26+Backend+Focused)](https://git.io/typing-svg)
-
-### Olá, sou o Eduardo!
-
-Dev Jr. focado em **Java & Spring Boot** porém entusiasta de Rust, C e C++.
-
-</div>
 
 ---
 ##  Tech Stack
@@ -33,15 +24,3 @@ Dev Jr. focado em **Java & Spring Boot** porém entusiasta de Rust, C e C++.
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
-
-##  Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eduerdson&theme=highcontrast&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-![Profile views](https://komarev.com/ghpvc/?username=Eduerdson&color=00ff88&style=flat-square&label=visitors)
-
-</div>
-
-> *"Qualquer problema de software pode ser resolvido com mais um nível de indireção — exceto o problema de muitos níveis de indireção."* — David J. Wheeler
